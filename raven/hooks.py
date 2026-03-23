@@ -172,7 +172,7 @@ scheduler_events = {
 	# "monthly": [
 	# 	"raven.scheduler.monthly"
 	# ],
-	"daily_maintenance": [
+	"daily": [
 		"raven.scheduler.daily.sync_invalid_tokens",
 		"raven.raven_cloud_notifications.sync_users_tokens_to_raven_cloud",
 	],
